@@ -3,4 +3,4 @@
 
 Sunburst_visualization is used to show the product distributions among different categories like ( For men & Women ; Face, Hair , Body etc )
 
-Bubble chart is used to show the statistics of Price of different products in the sephora product store 
+Bubble chart is used to show the correlation statistics of different product between their rating and reviews and loves_count which shows their popularity 
