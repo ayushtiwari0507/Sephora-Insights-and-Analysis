@@ -1,5 +1,5 @@
 # Sephora-Prodcuts--Reviews-
-"Unveil the Beauty Insights: Dive into the world of beauty data with an impactful EDA, sentiment analysis, and recommendation system for Sephora products. Explore trends, sentiments, and personalized recommendations to enhance beauty shopping experiences."
+ Dive into the world of beauty data with an impactful EDA, sentiment analysis, and recommendation system for Sephora products. Explore trends, sentiments, and personalized recommendations to enhance beauty shopping experiences."
 
 Sunburst_visualization is used to show the product distributions among different categories like ( For men & Women ; Face, Hair , Body etc )
 
